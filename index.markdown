@@ -17,4 +17,4 @@ Hi Jesse: Here is an interactive choropleth map for you.
 <script type="text/javascript">
   var spec = "https://raw.githubusercontent.com/c-koster/vega-specs/master/reachwell/multi-choropleth.json";
   vegaEmbed('#vis', spec).then(function(result) {}).catch(console.error);
-</script>s
+</script>
